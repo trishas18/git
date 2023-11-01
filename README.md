@@ -1,2 +1,11 @@
 # git
 ![gp](https://github.com/trishas18/git/assets/135442801/03a4fef6-df3d-483e-a056-4578ac25c76f)
+![1](https://github.com/trishas18/git/assets/135442801/479347b7-772c-4a40-9ee9-86c919126efe)
+![2](https://github.com/trishas18/git/assets/135442801/f5f03c43-ead8-4cd2-9033-5b573f77d30d)
+![3](https://github.com/trishas18/git/assets/135442801/d05adb32-5a51-4b79-8554-c621c4ff3b8b)
+![9](https://github.com/trishas18/git/assets/135442801/0f50a2d0-11d1-452b-8730-c5bcbc86e22d)
+![8](https://github.com/trishas18/git/assets/135442801/43de4b4b-ebf4-4dd8-bb4d-97d148d26e50)
+![7](https://github.com/trishas18/git/assets/135442801/79ccf057-dcea-4454-b803-1eaca41ba6c6)
+![6](https://github.com/trishas18/git/assets/135442801/1e355832-f691-4cec-b02b-c1adf1ca2243)
+![5](https://github.com/trishas18/git/assets/135442801/341a070c-ea36-40e1-8788-162237942ede)
+![4](https://github.com/trishas18/git/assets/135442801/3ad3f906-596f-46b6-bd37-dbe327ed8252)
