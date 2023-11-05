@@ -9,3 +9,5 @@
 ![6](https://github.com/trishas18/git/assets/135442801/1e355832-f691-4cec-b02b-c1adf1ca2243)
 ![5](https://github.com/trishas18/git/assets/135442801/341a070c-ea36-40e1-8788-162237942ede)
 ![4](https://github.com/trishas18/git/assets/135442801/3ad3f906-596f-46b6-bd37-dbe327ed8252)
+![last git session](https://github.com/trishas18/git/assets/135442801/aac706ef-4258-450e-91f7-9012787d15bc)
+![last git session2](https://github.com/trishas18/git/assets/135442801/305bccec-382c-4fbe-b06f-b7cb817e22f6)
